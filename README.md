@@ -96,4 +96,5 @@ Develop a mobile-friendly version of the application.
 Provide multilingual support for international users.
 
 License
+
 This project is available for personal or educational use. Feel free to customize or extend it for your needs.
