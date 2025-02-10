@@ -48,11 +48,6 @@ Audio Alert: If the user is in the "Sleeping" state for too long, a buzzer sound
 
 Setup Instructions
 
-Clone the Repository:
-
-git clone https://github.com/YOUR-USERNAME/drowsiness-detection.git
-cd drowsiness-detection
-
 Install Dependencies: Ensure Python 3.x is installed, then run:
 
 pip install opencv-python numpy dlib imutils playsound pillow
@@ -101,3 +96,4 @@ Develop a mobile-friendly version of the application.
 Provide multilingual support for international users.
 
 License
+This project is available for personal or educational use. Feel free to customize or extend it for your needs.
