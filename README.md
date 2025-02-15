@@ -22,7 +22,7 @@ This project is a real-time **drowsiness detection system** that monitors eye ac
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png"/>
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/opencv.png"/>
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/numpy.png"/>
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/tkinter.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=54023&format=png&color=000000"/>
 </p>
 
 - **Python**: Core logic and detection algorithms  
