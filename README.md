@@ -1,6 +1,3 @@
-<p align="center">
-  <img width="370" height="290" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzBtZDZudHR1cHphNm4xMzdlYWVxZG1jaG85aW1mYTY3cnk3OTVnNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cNFFHJ5Ki8KBJbS2Lt/giphy.gif">
-</p>
 
 # 🚀 Drowsiness Detection System
 
